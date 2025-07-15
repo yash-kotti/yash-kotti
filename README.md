@@ -1,52 +1,60 @@
 # Hi there, I'm Yash Kotti! 👋
 
-Welcome to my GitHub profile! I'm a **Software Engineer** with ~3 years of experience in **full-stack development**, specializing in **Java**, **React**, **Node.js**, **Express.js**, and **Spring Boot**. I'm passionate about building efficient tools and creating impactful solutions that make a difference. 🚀
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with ~3 years of experience in building scalable, production-ready web applications using **Java**, **Spring Boot**, **React**, **Node.js**, and **AWS**. I specialize in delivering high-impact solutions that automate processes, improve performance, and enhance user experience. 🚀
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as a software engineer at **Dassault Systèmes**, where I’ve had the opportunity to work on high-impact projects that optimize workflows and boost efficiency.
-- 🌱 Always exploring new technologies and striving to improve my skills in areas like **Python**, **Docker**, and advanced **full-stack development**.
-- 💡 I believe in blending innovation and simplicity to create solutions that matter.
+- 🏢 Currently working as a **Software Engineering Specialist** at **Dassault Systèmes**, contributing to tools that automate and optimize data processing in the healthcare and life sciences domain.
+- 🎨 I also design UI flows in **Figma** based on business requirements and build accessible and responsive UIs using **React**, **Redux Toolkit**, and **TailwindCSS**.
+- ☁️ Experienced in deploying Dockerized apps to **AWS EC2** for production.
+- 🌱 Constantly learning about scalable architectures, cloud services, and performance optimization.
 
 ---
 
 ## 🏆 Key Achievements
 ### 🚀 **Professional Projects**
-- **URL Automation Tool**: 
-  - Reduced manual testing time from **60 minutes to just 2 minutes**, achieving ~97% efficiency.
-  - Streamlined testing processes, enhancing productivity across teams.
+- **Interim Lock V4 UI**:
+  - Developed from scratch using React + Redux Toolkit + RTK Query + i18n.
+  - Automated complex study locking/unlocking workflows, reducing manual time from hours to ~20 minutes.
+  - Deployed to production via Docker + AWS EC2.
+- **URL Automation Tool**:
+  - Built with React, Node.js, SQL, TailwindCSS & Material UI.
+  - Achieved 97% efficiency by cutting down manual effort from 60 minutes to just 2 minutes.
 - **Rave Genesis Tool**:
-  - Engineered a solution to optimize data processing tasks, boosting efficiency by ~91%.
-  - Recognized with awards and appreciation for delivering impactful results.
+  - Engineered using Java + Spring Boot.
+  - Reduced a 22-hour manual data operation to 2 hours with a single click, improving efficiency by 91%.
+  - Recognized with the **Target Sniper** and **Out of the Box Thinker** awards.
 
-### 🎓 **College Projects**
+### 🎓 **Academic Project**
 - **E-Hospito Bed** 🏥:
-  - Developed a **real-time hospital bed availability and booking platform** inspired by the tatkal reservation system.
-  - Awarded **1st place at the Fifth National Research Symposium 2021** for its innovative approach and societal impact.
+  - Real-time hospital bed booking platform developed during COVID-19.
+  - Successfully deployed across 3 hospitals (Jalgaon, Ichalkaranji, Wani).
+  - Secured **1st place in the Fifth National Research Symposium 2021**.
 
 ---
 
 ## 💻 Tech Stack
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, Java
+- **Frontend**: React.js, Redux Toolkit, RTK Query, TailwindCSS, Material UI, HTML5, CSS3
+- **Backend**: Node.js, Express.js, Java, Spring Boot, REST APIs
 - **Database**: MySQL, MongoDB
-- **DevOps**: Docker
-- **Other Tools**: Python, Git, Postman
+- **DevOps**: Docker, AWS EC2
+- **Design Tools**: Figma
+- **Others**: Git, Postman, VS Code
 
 ---
 
 ## ✨ What Drives Me
-- **Efficiency**: I’m passionate about automating repetitive tasks and building tools that save time and effort.
-- **Impact**: I aim to work on projects that positively impact people’s lives, from real-time systems to automation tools.
-- **Collaboration**: I thrive in team environments and love sharing ideas to create innovative solutions.
+- **Automation**: I thrive on automating manual and repetitive tasks to drive efficiency.
+- **Scalability**: Building apps that are fast, maintainable, and scalable is at the core of my development approach.
+- **Team Collaboration**: I value clean communication and cross-functional teamwork to ship features faster and better.
 
 ---
 
 ## 🌟 Let's Connect!
-I’m always excited to collaborate on open-source projects, discuss innovative ideas, or explore professional opportunities. Feel free to reach out to me:
+I'm always open to connecting for collaboration, mentoring, or opportunities in impactful software development.
 
-- 🌐 [LinkedIn](http://www.linkedin.com/in/yash-kotti03)  
-- 📧 Email: yashkotti21@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-kotti03)
+- 📧 Email: yashkotti21@gmail.com
 
-Looking forward to connecting and building great things together! 😊
+Let’s build something impactful together! 😊
