@@ -117,7 +117,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer II at Mastercard** with 
 
 I'm always open to discussing Software Engineering, Backend Development, Microservices, Cloud Engineering, Automation, and System Design.
 
-- 🌐 LinkedIn: www.linkedin.com/in/yash-kotti03
+- 🌐 LinkedIn: https://www.linkedin.com/in/i-am-yash-kotti/
 - 📧 Email: yashkotti21@gmail.com
 - 💻 GitHub: github.com/yash-kotti
 
