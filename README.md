@@ -119,6 +119,6 @@ I'm always open to discussing Software Engineering, Backend Development, Microse
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/i-am-yash-kotti/
 - 📧 Email: yashkotti21@gmail.com
-- 💻 GitHub: github.com/yash-kotti
+- 💻 GitHub: https://github.com/yash-kotti
 
 Let's build something impactful together! 🚀
