@@ -1,60 +1,124 @@
 # Hi there, I'm Yash Kotti! 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with ~3 years of experience in building scalable, production-ready web applications using **React**, **Node.js**,**Java**, **Spring Boot**, and **AWS**. I specialize in delivering high-impact solutions that automate processes, improve performance, and enhance user experience. 🚀
+Welcome to my GitHub profile! I'm a **Software Engineer II at Mastercard** with 4+ years of experience building scalable, production-grade applications using **Java, Spring Boot, React, AWS, Docker, Microservices, and CI/CD**. I enjoy solving complex engineering problems, automating manual workflows, and building high-performance systems that create measurable business impact. 🚀
 
 ---
 
 ## 👨‍💻 About Me
-- 🏢 Currently working as a **Software Engineering Specialist** at **Dassault Systèmes**, contributing to tools that automate and optimize data processing in the healthcare and life sciences domain.
-- 🎨 I also design UI flows in **Figma** based on business requirements and build accessible and responsive UIs using **React**, **Redux Toolkit**, and **TailwindCSS**.
-- ☁️ Experienced in deploying Dockerized apps to **AWS EC2 & EKS** for production.
-- 🌱 Constantly learning about scalable architectures, cloud services, and performance optimization.
+
+- 🏢 Currently working as a **Software Engineer II at Mastercard**, contributing to the **Operational Reports (OR 2.0)** platform.
+- 🚀 Built **Release Copilot**, an internal deployment automation platform that reduced release effort by **98.3% (60 mins → <1 min)** through one-click automation and environment-aware configuration handling.
+- ⚡ Led development of billing reconciliation and reporting enhancements while optimizing report-processing workflows through **multithreading**, improving execution time by **97.8% (1.5 hrs → <2 mins)**.
+- 🎨 Experienced in designing responsive, internationalized applications using **React, Redux Toolkit, RTK Query, TailwindCSS, and Figma**.
+- ☁️ Passionate about **Microservices, System Design, Cloud Technologies, Performance Optimization, and Developer Productivity Automation**.
 
 ---
 
 ## 🏆 Key Achievements
-### 🚀 **Professional Projects**
-- **Interim Lock V4 UI**:
-  - Developed from scratch using React + Redux Toolkit + RTK Query + i18n.
-  - Automated complex study locking/unlocking workflows, reducing manual time from hours to ~20 minutes.
-  - Deployed to production via Docker + AWS EC2 & EKS.
-- **URL Automation Tool**:
-  - Built with React, Node.js, SQL, TailwindCSS & Material UI.
-  - Achieved 97% efficiency by cutting down manual effort from 60 minutes to just 2 minutes.
-- **Rave Genesis Tool**:
-  - Engineered using Java + Spring Boot.
-  - Reduced a 22-hour manual data operation to 2 hours with a single click, improving efficiency by 91%.
-  - Recognized with the **Target Sniper** and **Out of the Box Thinker** awards.
 
-### 🎓 **Academic Project**
-- **E-Hospito Bed** 🏥:
-  - Real-time hospital bed booking platform developed during COVID-19.
-  - Successfully deployed across 3 hospitals (Jalgaon, Ichalkaranji, Wani).
-  - Secured **1st place in the Fifth National Research Symposium 2021**.
+### 🚀 Professional Projects
+
+#### Release Copilot
+- Built an internal deployment automation platform for release management.
+- Automated release branch creation, environment-aware configurations, and multi-service deployments.
+- Reduced deployment effort by **98.3% (60 mins → <1 min)**.
+
+#### Interim Lock V4
+- Developed a scalable **micro-frontend platform** with **microservices architecture**.
+- Automated study workflows and reduced operational effort by **95%**.
+- Deployed using **Docker, AWS EC2, and AWS EKS**.
+
+#### URL Automation Tool
+- Built using **React, Node.js, SQL, TailwindCSS, and Material UI**.
+- Improved deployment efficiency by **97% (60 mins → 2 mins)**.
+
+#### Rave Genesis Tool
+- Developed using **Java, Spring Boot, and REST APIs**.
+- Reduced manual effort by **91% (22 hrs → 2 hrs)** through one-click automation.
+- Received **Target Sniper** and **Out of the Box Thinker** awards.
+
+---
+
+### 🎓 Academic Project
+
+#### E-HOSPITO BED 🏥
+
+- Developed a real-time hospital bed booking platform during COVID-19.
+- Built using **PHP, JavaScript, Bootstrap, and SQL**.
+- Successfully deployed across **3 hospitals**.
+- 🏆 Secured **1st Place in the Fifth National Research Symposium 2021**.
 
 ---
 
 ## 💻 Tech Stack
-- **Frontend**: React.js, Redux Toolkit, RTK Query, TailwindCSS, Material UI, HTML5, CSS3
-- **Backend**: Node.js, Express.js, Java, Spring Boot, REST APIs
-- **Database**: MySQL, MongoDB
-- **DevOps**: Docker, AWS EC2 & EKS
-- **Design Tools**: Figma
-- **Others**: Git, Postman, VS Code
+
+### Frontend
+- React.js
+- Redux Toolkit
+- RTK Query
+- TailwindCSS
+- Material UI
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Java
+- Spring Boot
+- Kafka
+- Microservices
+- REST APIs
+- GraphQL
+- JWT / OAuth2
+- Hibernate
+- JPA
+
+### Database
+- MySQL
+- MongoDB
+
+### Cloud & DevOps
+- AWS (EC2, EKS, S3, Lambda)
+- Docker
+- CI/CD Pipelines
+- GitHub Actions
+- Git
+- Jenkins
+
+### Tools
+- Figma
+- Postman
+- Jira
+- Confluence
 
 ---
 
 ## ✨ What Drives Me
-- **Automation**: I thrive on automating manual and repetitive tasks to drive efficiency.
-- **Scalability**: Building apps that are fast, maintainable, and scalable is at the core of my development approach.
-- **Team Collaboration**: I value clean communication and cross-functional teamwork to ship features faster and better.
+
+- 🤖 **Automation First** – I enjoy eliminating repetitive work through engineering and tooling.
+- ⚡ **Performance Engineering** – Optimizing systems, reducing execution times, and improving scalability.
+- 📈 **Business Impact** – Building solutions that save hours of manual effort and improve operational efficiency.
+- 🤝 **Continuous Learning** – Constantly exploring System Design, Cloud Architecture, AI, and Backend Engineering best practices.
+
+---
+
+## 🏅 Awards & Recognition
+
+- 🏆 **Out of the Box Thinker**
+- 🎯 **Target Sniper**
+- 👏 **Applause Annual Award**
+- 💡 Built automation platforms that improved engineering efficiency by up to **98%**
+- 🧠 Solved **500+ DSA Problems** on GeeksforGeeks
 
 ---
 
 ## 🌟 Let's Connect!
-I'm always open to connecting for collaboration, mentoring, or opportunities in impactful software development.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-kotti03)
+I'm always open to discussing Software Engineering, Backend Development, Microservices, Cloud Engineering, Automation, and System Design.
+
+- 🌐 LinkedIn: www.linkedin.com/in/yash-kotti03
 - 📧 Email: yashkotti21@gmail.com
+- 💻 GitHub: github.com/yash-kotti
 
-Let’s build something impactful together! 😊
+Let's build something impactful together! 🚀
